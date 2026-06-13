@@ -134,7 +134,7 @@ Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec
 
 ## 🎓 Education & Certifications
 
-- 🎓 **M.S. Cybersecurity** — *[Your University Name]*
+- 🎓 Education M.S. in Cybersecurity — Minnesota State University Moorhead (Expected Dec 2026) | GPA: 4.0 AAS — Computer & Network Technology / AAS — IT Cybersecurity (Double Major) — Northland Community and Technical College (May 2025) | GPA: 4.0 | President's List B.S. in Electrical & Electronic Engineering — General Sir John Kotelawala Defense University, Sri Lanka (Oct 2015)
 - 📜 Certification Courses CCNAv7 — Introduction to Networks; Switching, Routing & Wireless Essentials; Enterprise Networking, Security & Automation CompTIA Security+ (SY0-601) CompTIA PenTest+ (PT0-002) CompTIA Network Defense and Countermeasures Pentest in a Nutshell — Hack The Box Academy (Dec 2025)
 
 ---
