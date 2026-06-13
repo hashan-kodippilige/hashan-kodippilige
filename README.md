@@ -55,3 +55,98 @@ Pentest in a Nutshell — Hack The Box Academy (Dec 2025)
 Splunk Cloud Dashboard Developer — Security Analytics Intern @ MSUM (2025–Present)
 AVTV Assistant Technician @ MSUM IT Office (May 2025–Present)
 Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec 2022)
+
+<h1 align="center">Hi there, I'm Hashan Kodippilige 👋</h1>
+
+<h3 align="center">M.S. Cybersecurity Student | SOC & Network Security | Splunk | Cisco</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hashan-kodippilige" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hashan-kodippilige&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **M.S. in Cybersecurity** student with a focus on network security and threat detection
+- 🔬 Currently building **Splunk SIEM dashboards** for real-time threat monitoring (internship project)
+- 🎤 **Conference presenter** at SAC 2025
+- 🌐 Experienced in enterprise network design, firewall configuration, and traffic analysis
+- 🔍 Passionate about Blue Team operations, incident response, and network forensics
+- 📫 Open to cybersecurity internship and full-time opportunities
+
+---
+
+## 🛠️ Skills & Tools
+
+### Security
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E22C2C?style=for-the-badge&logo=target&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+### Programming & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🦠 [Ransomware Network Traffic Analysis using MITRE ATT&CK & Wireshark](https://github.com/hashan-kodippilige/Ransomware-network-traffic-analysis-using-mitre-attack-Wireshark)
+> Captured and analyzed live ransomware traffic patterns, mapped attack stages to MITRE ATT&CK framework, and developed detection signatures. Presented at **SAC 2025**.
+
+### 🔒 [Enterprise Network with Firewall & DMZ](https://github.com/hashan-kodippilige/Enterprise-Network-firewall-dmz)
+> Designed and implemented a multi-zone enterprise network with a fully configured DMZ, stateful firewall rules, and segmented VLANs using Cisco Packet Tracer.
+
+### 🌐 [Multi-Site Enterprise Network](https://github.com/hashan-kodippilige/Multi-Site-Enterprise-Network)
+> Simulated a multi-branch corporate WAN with dynamic routing (OSPF/EIGRP), inter-site VPN tunnels, and redundancy configurations.
+
+### 📊 Splunk SIEM Dashboard *(In Progress)*
+> Building real-time threat detection dashboards using Splunk SPL during internship. Covers log ingestion, correlation rules, and alert automation. Repo coming soon.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashan-kodippilige&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-kodippilige&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-kodippilige&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **M.S. Cybersecurity** — *[Your University Name]*
+- 📜 *[Add any certs: CompTIA Security+, Google Cybersecurity, etc.]*
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **cybersecurity roles** in SOC analysis, network security, or threat detection. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hashan-kodippilige">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
