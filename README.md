@@ -57,9 +57,7 @@ AVTV Assistant Technician @ MSUM IT Office (May 2025–Present)
 Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec 2022)
 
 <h1 align="center">Hi there, I'm Hashan Kodippilige 👋</h1>
-
 <h3 align="center">M.S. Cybersecurity Student | SOC & Network Security | Splunk | Cisco</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hashankodippilige/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -137,7 +135,7 @@ Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec
 ## 🎓 Education & Certifications
 
 - 🎓 **M.S. Cybersecurity** — *[Your University Name]*
-- 📜 *[Add any certs: CompTIA Security+, Google Cybersecurity, etc.]*
+- 📜 Certification Courses CCNAv7 — Introduction to Networks; Switching, Routing & Wireless Essentials; Enterprise Networking, Security & Automation CompTIA Security+ (SY0-601) CompTIA PenTest+ (PT0-002) CompTIA Network Defense and Countermeasures Pentest in a Nutshell — Hack The Box Academy (Dec 2025)
 
 ---
 
