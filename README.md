@@ -61,10 +61,10 @@ Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec
 <h3 align="center">M.S. Cybersecurity Student | SOC & Network Security | Splunk | Cisco</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hashan-kodippilige" target="_blank">
+  <a href="https://www.linkedin.com/in/hashankodippilige/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hashansharindu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hashan-kodippilige&style=for-the-badge&color=blue" />
@@ -146,7 +146,7 @@ Electronic Engineer & Commissioned Officer @ Sri Lanka Air Force (Oct 2015–Dec
 I'm actively looking for **cybersecurity roles** in SOC analysis, network security, or threat detection. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hashan-kodippilige">
+  <a href="https://www.linkedin.com/in/hashankodippilige/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
