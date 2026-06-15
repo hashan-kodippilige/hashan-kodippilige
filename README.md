@@ -16,18 +16,18 @@
 
 ## About Me
 
-- 🎓 **M.S. in Cybersecurity** student with a focus on network security and threat detection
-- 🔬 Currently building **Splunk SIEM Dashboards** for real-time threat monitoring (internship project)
-- 🎤 **Conference presenter** at SAC 2025, Minnesota State University Moorhead
-- 🌐 Experienced in enterprise network design, firewall configuration, and traffic analysis
-- 🔍 Passionate about Blue Team operations, incident response, and network forensics
-- 📄 **Co-author** — Manuscript under peer review: *"Lightweight Runtime Security Policy Verification Using an Embeddable C++ miniKanren"*
+- **M.S. in Cybersecurity** student with a focus on network security and threat detection
+- Currently building **Splunk SIEM Dashboards** for real-time threat monitoring (internship project)
+- **Conference presenter** at SAC 2025, Minnesota State University Moorhead
+- Experienced in enterprise network design, firewall configuration, and traffic analysis
+- Passionate about Blue Team operations, incident response, and network forensics
+- **Co-author** — Manuscript under peer review: *"Lightweight Runtime Security Policy Verification Using an Embeddable C++ miniKanren"*
 
 ---
 
 ## Skills & Tools
 
-### 🔍 Network Analysis & Monitoring
+### Network Analysis & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-004088?style=for-the-badge&logo=linux&logoColor=white)
@@ -87,11 +87,11 @@
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
-| 🎓 M.S. in Cybersecurity | Minnesota State University Moorhead | Expected Dec 2026 | Current GPA: 4.0 |
-| 🎓 AAS — Computer & Network Technology | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
-| 🎓 AAS — IT Cybersecurity *(Double Major)* | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
-| 🎓 B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 |  |
-| 📜 Certificate in Cisco Networking | Northland Community and Technical College, Grand Forks, ND | May 2025 | Highest Honors |
+| M.S. in Cybersecurity | Minnesota State University Moorhead | Expected Dec 2026 | Current GPA: 4.0 |
+| AAS — IT Cybersecurity | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
+| AAS — Computer & Network Technology *(Double Major)* | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
+| B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 |  |
+| Certificate in Cisco Networking | Northland Community and Technical College, Grand Forks, ND | May 2025 | Highest Honors |
 
 ---
 
