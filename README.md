@@ -91,7 +91,7 @@
 | 🎓 AAS — Computer & Network Technology | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
 | 🎓 AAS — IT Cybersecurity *(Double Major)* | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
 | 🎓 B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 |  |
-| 📜 Certificate in Cisco Networking *(Highest Honors)* | Northland Community and Technical College | May 2025 |  |
+| 📜 Certificate in Cisco Networking | Northland Community and Technical College | May 2025 | Highest Honors |
 
 ---
 
