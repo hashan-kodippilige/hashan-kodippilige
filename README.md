@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hashan Kodippilige 👋</h1>
 
-<h3 align="center">M.S. Cybersecurity | SOC & Network Security | Splunk | Cisco | Ph.D. Applicant</h3>
+<h3 align="center">M.S. Cybersecurity | SOC & Network Security | Splunk | Cisco</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hashankodippilige/" target="_blank">
@@ -95,7 +95,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certification Courses
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
