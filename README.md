@@ -75,7 +75,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certification Courses
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
