@@ -22,7 +22,7 @@
 - 🌐 Experienced in enterprise network design, firewall configuration, and traffic analysis
 - 🔍 Passionate about Blue Team operations, incident response, and network forensics
 - 📄 **Co-author** — Manuscript under peer review: *"Lightweight Runtime Security Policy Verification Using an Embeddable C++ miniKanren"*
-- 📫 Open to cybersecurity internship and full-time opportunities
+- 📫 Open to cybersecurity roles (SOC, Network Security, Threat Detection) and Ph.D. program opportunities in Cybersecurity / CS
 
 ---
 
@@ -81,11 +81,11 @@
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
-| 🎓 M.S. in Cybersecurity *(Ph.D. track)* | Minnesota State University Moorhead | Expected Dec 2026 | GPA: 4.0 |
+| 🎓 M.S. in Cybersecurity  | Minnesota State University Moorhead | Expected Dec 2026 | Current GPA: 4.0 |
 | 🎓 AAS — Computer & Network Technology | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
 | 🎓 AAS — IT Cybersecurity *(Double Major)* | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
-| 🎓 B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 | — |
-| 📜 Certificate in Cisco Networking *(Highest Honors)* | Northland Community and Technical College | May 2025 | — |
+| 🎓 B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 |  |
+| 📜 Certificate in Cisco Networking *(Highest Honors)* | Northland Community and Technical College | May 2025 |  |
 
 ---
 
@@ -105,7 +105,7 @@
 
 ## 📫 Let's Connect
 
-I'm actively looking for **cybersecurity roles** in SOC analysis, network security, or threat detection. Feel free to reach out!
+I'm actively looking for cybersecurity roles (SOC analysis, network security, threat detection) and Ph.D. program opportunities in Cybersecurity or Computer Science. If you're a recruiter, hiring manager, or faculty member — feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hashankodippilige/">
