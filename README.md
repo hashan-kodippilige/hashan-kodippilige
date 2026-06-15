@@ -112,7 +112,7 @@
 
 ## 📫 Let's Connect
 
-I'm actively looking for **cybersecurity roles** (SOC analysis, network security, threat detection) and **Ph.D. program opportunities** in Cybersecurity or Computer Science. If you're a recruiter, hiring manager, or faculty member — feel free to reach out!
+Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hashankodippilige/">
