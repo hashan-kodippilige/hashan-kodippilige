@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hashan Kodippilige
+<h1 align="center">I'm Hashan Kodippilige
 
 <h3 align="center">M.S. Cybersecurity | SOC & Network Security | Splunk | Cisco</h3>
 
