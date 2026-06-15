@@ -22,7 +22,6 @@
 - 🌐 Experienced in enterprise network design, firewall configuration, and traffic analysis
 - 🔍 Passionate about Blue Team operations, incident response, and network forensics
 - 📄 **Co-author** — Manuscript under peer review: *"Lightweight Runtime Security Policy Verification Using an Embeddable C++ miniKanren"*
-- 📫 Open to **cybersecurity roles** (SOC, Network Security, Threat Detection) and **Ph.D. program opportunities** in Cybersecurity / CS
 
 ---
 
