@@ -87,11 +87,11 @@
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
-| 🎓 M.S. in Cybersecurity *(Ph.D. track)* | Minnesota State University Moorhead | Expected Dec 2026 | Current GPA: 4.0 |
-| 🎓 AAS — Computer & Network Technology | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
-| 🎓 AAS — IT Cybersecurity *(Double Major)* | Northland Community and Technical College | May 2025 | GPA: 4.0 — President's List |
+| 🎓 M.S. in Cybersecurity | Minnesota State University Moorhead | Expected Dec 2026 | Current GPA: 4.0 |
+| 🎓 AAS — Computer & Network Technology | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
+| 🎓 AAS — IT Cybersecurity *(Double Major)* | Northland Community and Technical College, Grand Forks, ND | May 2025 | GPA: 4.0 — President's List |
 | 🎓 B.S. in Electrical & Electronic Engineering | General Sir John Kotelawala Defense University, Sri Lanka | Oct 2015 |  |
-| 📜 Certificate in Cisco Networking | Northland Community and Technical College | May 2025 | Highest Honors |
+| 📜 Certificate in Cisco Networking | Northland Community and Technical College, Grand Forks, ND | May 2025 | Highest Honors |
 
 ---
 
