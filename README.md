@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hashan Kodippilige 👋</h1>
+<h1 align="center">Hi there, I'm Hashan Kodippilige
 
 <h3 align="center">M.S. Cybersecurity | SOC & Network Security | Splunk | Cisco</h3>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 **M.S. in Cybersecurity** student with a focus on network security and threat detection
 - 🔬 Currently building **Splunk SIEM Dashboards** for real-time threat monitoring (internship project)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### 🔍 Network Analysis & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -35,29 +35,29 @@
 ![Syslog](https://img.shields.io/badge/Syslog-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![NSLookup](https://img.shields.io/badge/NSLookup%20%2F%20Dig-333333?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🛡️ SIEM & Threat Detection
+### SIEM & Threat Detection
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E22C2C?style=for-the-badge&logo=target&logoColor=white)
 ![CWE](https://img.shields.io/badge/CWE-CC0000?style=for-the-badge&logo=target&logoColor=white)
 
-### 🔴 Offensive Security & Pentesting
+### Offensive Security & Pentesting
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 🔬 Digital Forensics & Malware Analysis
+### Digital Forensics & Malware Analysis
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-4B4B4B?style=for-the-badge&logo=ida&logoColor=white)
 ![CAINE](https://img.shields.io/badge/CAINE-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![ProcMon](https://img.shields.io/badge/ProcMon%20%2F%20Autoruns-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🌐 Networking & Infrastructure
+### Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🤖 Programming & Machine Learning
+### Programming & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -67,23 +67,23 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🦠 [Ransomware Network Traffic Analysis using MITRE ATT&CK & Wireshark](https://github.com/hashan-kodippilige/Ransomware-network-traffic-analysis-using-mitre-attack-Wireshark)
+### [Ransomware Network Traffic Analysis using MITRE ATT&CK & Wireshark](https://github.com/hashan-kodippilige/Ransomware-network-traffic-analysis-using-mitre-attack-Wireshark)
 > Captured and analyzed live ransomware traffic patterns, mapped attack stages to MITRE ATT&CK framework, and developed detection signatures. Presented at **SAC 2025**.
 
-### 🔒 [Enterprise Network with Firewall & DMZ](https://github.com/hashan-kodippilige/Enterprise-Network-firewall-dmz)
+### [Enterprise Network with Firewall & DMZ](https://github.com/hashan-kodippilige/Enterprise-Network-firewall-dmz)
 > Designed and implemented a multi-zone enterprise network with a fully configured DMZ, stateful firewall rules, and segmented VLANs using Cisco Packet Tracer.
 
-### 🌐 [Multi-Site Enterprise Network](https://github.com/hashan-kodippilige/Multi-Site-Enterprise-Network)
+### [Multi-Site Enterprise Network](https://github.com/hashan-kodippilige/Multi-Site-Enterprise-Network)
 > Simulated a multi-branch corporate WAN with dynamic routing (OSPF/EIGRP), inter-site VPN tunnels, and redundancy configurations.
 
-### 📊 Splunk SIEM Dashboard *(In Progress)*
+### Splunk SIEM Dashboard *(In Progress)*
 > Building real-time threat detection dashboards using Splunk SPL during internship. Covers log ingestion, correlation rules, and alert automation. Repo coming soon.
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
@@ -95,7 +95,7 @@
 
 ---
 
-## 📜 Certification Courses
+## Certification Courses
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
@@ -109,7 +109,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out!
 
