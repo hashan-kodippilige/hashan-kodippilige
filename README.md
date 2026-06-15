@@ -17,8 +17,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 **M.S. in Cybersecurity** student with a focus on network security and threat detection
-- 🔬 Currently building **Splunk SIEM dashboards** for real-time threat monitoring (internship project)
-- 🎤 **Conference presenter** at SAC 2025
+- 🔬 Currently building **Splunk SIEM Dashboards** for real-time threat monitoring (internship project)
+- 🎤 **Conference presenter** at SAC 2025, Minnesota State University Moorhead
 - 🌐 Experienced in enterprise network design, firewall configuration, and traffic analysis
 - 🔍 Passionate about Blue Team operations, incident response, and network forensics
 - 📄 **Co-author** — Manuscript under peer review: *"Lightweight Runtime Security Policy Verification Using an Embeddable C++ miniKanren"*
